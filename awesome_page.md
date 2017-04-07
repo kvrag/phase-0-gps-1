@@ -2,10 +2,16 @@
 ##Different Types of Hits
 ###Single
 * A **single** is a *hit* where the player gets to first base.
+
 ###Double
-*A **double** is when a player gets a *hit* and reaches second base.
+* A **double** is when a player gets a *hit* and reaches second base.
+
 ###Triple
-*A **Triple** is a *hit* where the player gets to third base.
+* A **Triple** is a *hit* where the player gets to third base.
+
+###Homerun
+* A Homerun ins the best hit.
+
 
 Information from [wikipedia](https://en.wikipedia.org/wiki/Baseball)
 `Thanks for visiting`
