@@ -10,8 +10,7 @@
 * A **Triple** is a *hit* where the player gets to third base.
 
 ###Homerun
-* A Homerun ins the best hit.
-
+* A **homerun** is a *hit* where the player hits all four bases.
 
 Information from [wikipedia](https://en.wikipedia.org/wiki/Baseball)
 `Thanks for visiting`
